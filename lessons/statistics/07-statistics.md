@@ -96,7 +96,7 @@ P(A|E) = 5/11
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+In frequentist statistics inferences are based on the sampling distribution and does not depend on a subjective prior. In Bayesian statistics inferences depend on a prior which may be subjective.
 
 ---
 
